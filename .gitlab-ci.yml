@@ -36,7 +36,7 @@ jobs:
       run: |
         pytest -v
 
-# Deployment to AWS ECS Server through Docker-GitLab Runner CI/CD
+# Deployment to AWS ECS Server through Docker-GitLab Runner CI-CD
 
 buildjob:
   stage: build
